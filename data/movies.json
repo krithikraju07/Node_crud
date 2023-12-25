@@ -1,0 +1,42 @@
+[
+  {
+    "id": "2",
+    "title": "tokyo revengers part 2",
+    "year": 2022,
+    "genre": ["drama", "emotion"],
+    "director": "Christopher Nolan",
+    "cast": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Elliot Page"],
+    "plot": "A thief who enters the dreams of others to steal their secrets faces a challenging mission that involves planting an idea into the mind of a CEO.",
+    "rating": 9.9
+  },
+  {
+    "title": "maja maja maja",
+    "year": 2023,
+    "genre": ["drama", "emotion"],
+    "director": "Christopher Nolan",
+    "cast": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Elliot Page"],
+    "plot": "A thief who enters the dreams of others to steal their secrets faces a challenging mission that involves planting an idea into the mind of a CEO.",
+    "rating": 8.8,
+    "id": "45383571-ebe2-4453-aca4-5fdbb779f827"
+  },
+  {
+    "id": "6a91df78-e4fe-47d6-87c3-65085c10a44a",
+    "title": "demon slayer part 3",
+    "year": 2022,
+    "genre": ["drama", "emotion"],
+    "director": "Christopher Nolan",
+    "cast": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Elliot Page"],
+    "plot": "A thief who enters the dreams of others to steal their secrets faces a challenging mission that involves planting an idea into the mind of a CEO.",
+    "rating": 9.9
+  },
+  {
+    "title": "tokyo revengers",
+    "year": 2022,
+    "genre": ["drama", "emotion"],
+    "director": "Christopher Nolan",
+    "cast": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Elliot Page"],
+    "plot": "A thief who enters the dreams of others to steal their secrets faces a challenging mission that involves planting an idea into the mind of a CEO.",
+    "rating": 9.9,
+    "id": "a35efe69-0084-4135-940c-6ecb3db72c80"
+  }
+]
